@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1D3401",
+        "titleBar.activeBackground": "#284801",
+        "titleBar.activeForeground": "#F0FEDF"
+    },
+    "java.project.sourcePaths": [
+        "javastarter",
+        "res",
+        "src"
+    ]
+}
